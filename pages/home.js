@@ -59,10 +59,10 @@ render() {
       </Col>
       <Col>
         <Card className="text-center" style={{ width: '100%',   justifyContent: 'center', alignItems: 'center' }}>
-      <LinkContainer to ="/js">
+      <LinkContainer to ="/php">
      <Card.Img  style={{padding:'3%', margin:'1%' }} variant="top" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"  />
         </LinkContainer> 
-        <LinkContainer to ="/js">
+        <LinkContainer to ="/php">
         <Card.Text>
           Clique para mais detalhes sobre PHP
         </Card.Text>
